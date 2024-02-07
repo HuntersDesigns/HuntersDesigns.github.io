@@ -1,7 +1,7 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.custom{
-    background: url(basic.png); 
+    background: url(base.png); 
     height: 1080px;
     width: 1440px;
     background-repeat:no-repeat;
