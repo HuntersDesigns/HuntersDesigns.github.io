@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 945 755" width="945" height="755">
+	<title>SNES</title>
+	<style>
+		.s0 { fill: #fffc39 } 
+	</style>
+	<g id="SNES Press">
+		<g id="Dpad">
+			<path id="Up" fill-rule="evenodd" class="s0" d="m161 285c7-6 14-6 14-6h34c0 0 7 0 14 6 6 7 6 14 6 14v70.1l-36.8 36.8 0.1 0.1h-0.4l0.1-0.1-37-37v-69.9c0 0 0-7 6-14z"/>
+		</g>
+	</g>
+</svg>
