@@ -1,14 +1,14 @@
 /*BEGIN SNES Controller Styling*/
 
 .controller.custom{
-    background: url(base2.svg); 
+    background: url(base.svg); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom.disconnected { 
-    background: url(disconnected2.svg);
+    background: url(disconnected.svg);
 }
 
 .custom.disconnected div {
