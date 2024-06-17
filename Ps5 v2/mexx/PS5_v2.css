@@ -1,14 +1,14 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.custom{
-    background: url(base.gif); 
+    background: url(base2.gif); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom.disconnected { 
-    background: url(disconnected.gif);
+    background: url(disconnected2.gif);
 }
 
 .custom.disconnected div {
