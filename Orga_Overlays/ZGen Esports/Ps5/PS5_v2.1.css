@@ -182,7 +182,7 @@
 
 .custom .stick.left{
     position: absolute;
-    background: url(LS2.png);
+    background: url(LS.png);
     height: 106px;
     width: 106px;
     background-repeat:no-repeat;
@@ -190,7 +190,7 @@
 
 .custom .stick.right{
     position: absolute;
-    background: url(RS2.png);
+    background: url(RS.png);
     left: 289px;
     height: 106px;
     width: 106px;
