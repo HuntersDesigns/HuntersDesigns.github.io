@@ -9,6 +9,10 @@
 
 .custom.disconnected { 
     background: url(disconnected.gif);
+    height: 377px;
+    width: 472px;
+    background-repeat:no-repeat;
+    scale: 2;
 }
 
 .custom.disconnected div {
