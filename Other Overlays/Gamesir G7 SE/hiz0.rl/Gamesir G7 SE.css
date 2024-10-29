@@ -1,14 +1,14 @@
 /*BEGIN Gamesir G7 SE Controller Styling*/
 
 .controller.custom{
-    background: url(base.png); 
+    background: url(base2.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom.disconnected { 
-    background: url(disconnected.png);
+    background: url(disconnected2.png);
 }
 
 .custom.disconnected div {
